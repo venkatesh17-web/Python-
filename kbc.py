@@ -12,7 +12,7 @@ questions = [
         ["Q10. Which traversal visits the Root → Left → Right nodes in a binary tree? ", "Inorder", "Postorder", "Preorder", "Level Order", 3],
         ["Q11. Which traversal visits Left → Root → Right in a binary tree? ", "Preorder", "Inorder", "Postorder", "Level Order", 2],
         ["Q12. Which traversal visits Left → Right → Root in a binary tree? ", "Inorder", "Preorder", "Level Order", "Postorder", 4],
-        ["13. Which data structure is used in Breadth-First Search (BFS)? ", "Stack", "Queue", "Heap", "Array", 2],
+        ["Q13. Which data structure is used in Breadth-First Search (BFS)? ", "Stack", "Queue", "Heap", "Array", 2],
         ["Q14. Which data structure is commonly used in Depth-First Search (DFS)? ", "Queue", "Stack", "Hash Table", "Heap", 2],
         ["Q15. What is the worst-case time complexity of searching for an element in an unsorted array? ", "O(1)", "O(log n)", "O(n)", "O(n²)", 3],
         ["Q16. Which data structure is most suitable for representing hierarchical data? ", "Stack", "Queue", "Tree", "Array", 3]
